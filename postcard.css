@@ -90,11 +90,11 @@ h3{
     flex-direction: column-reverse;
     width: 100%;
     padding: 1rem;
-    min-height: 130vh;
+    min-height: 100vh;
 }
 .box1{
     width: 100%;
-    min-height: 90vh;
+    min-height: 70vh;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
 }
